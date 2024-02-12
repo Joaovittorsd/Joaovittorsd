@@ -16,10 +16,14 @@
   <img align="right" alt="Joao-Vittor" src="https://i.pinimg.com/originals/00/32/39/0032396db4f41601a6c992f0863bc45b.gif" margin-top="100" />
 </div><br/>
 
-Sou desenvolvedor C#, com experiência em desenvolvimento de sistemas e soluções para melhorar a eficiência dos processos empresariais. Estudante de Análise e Desenvolvimento de Sistemas, sempre busco me capacitar em novas tecnologias e ajudar outros a entender melhor a programação.
+Meu nome é João Vitor, e sou um Desenvolvedor .NET Pleno com mais de 2 anos de experiência impulsionando projetos para o próximo nível!
 
-Minhas principais habilidades incluem trabalhar com C#, .Net Framework e VBA, além de conhecimentos em manutenção e melhoria de softwares, banco de dados Microsoft SQL Server, HTML/CSS e JavaScript.
+Durante esse inicio de carreira profissional, venho desenvolvendo vários projetos internos em .NET, desenvolvendo módulos segmentados por setores para otimizar operações. Integrei recursos avançados, como notificações programadas no WhatsApp e alertas de manutenção preventiva, reduzindo custos operacionais e aprimorando a eficiência da manutenção.
 
-Com minha experiência em desenvolvimento de projetos utilizando C#, tenho a habilidade de criar soluções inovadoras e competitivas que melhoram a experiência do usuário e auxiliam empresas a atingir suas metas. Adotando um pensamento criativo, busco sempre encontrar novas e eficientes maneiras de resolver problemas e otimizar processos.
+Além disso, sou especialista na criação de Dashboards e relatórios utilizando Power BI, proporcionando insights estratégicos que impulsionam a tomada de decisões informadas.
+
+Atualmente, estou me formando em Análise e Desenvolvimento de Sistemas, buscando sempre aprimorar meus conhecimentos e me manter atualizado com as últimas tendências do mundo da tecnologia.
+
+Estou em busca de novas oportunidades para aplicar minha paixão pelo desenvolvimento de software e agregar valor a projetos desafiadores. Se você procura um profissional comprometido, inovador e sempre em busca de evolução, vamos conversar!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovittorsd)](https://github.com/anuraghazra/github-readme-stats)
