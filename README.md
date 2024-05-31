@@ -34,8 +34,6 @@ I currently have a degree in Systems Analysis and Development, always seeking to
 
  <hr/>
  
-## Languages and Tools 
-<div>
 
 ### Languages:
 | C# | Java | PHP | JS |
