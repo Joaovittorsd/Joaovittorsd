@@ -64,4 +64,6 @@ I currently have a degree in Systems Analysis and Development, always seeking to
   <img src="https://komarev.com/ghpvc/?username=Joaovittorsd&style=for-the-badge&color=orange" alt=""/>
 </div>
 
+![snake gif](https://github.com/Joaovittorsd/Joaovittorsd/blob/output/github-contribution-grid-snake.gif)
+
 
