@@ -26,4 +26,8 @@ Atualmente, estou me formando em Análise e Desenvolvimento de Sistemas, buscand
 
 Estou em busca de novas oportunidades para aplicar minha paixão pelo desenvolvimento de software e agregar valor a projetos desafiadores. Se você procura um profissional comprometido, inovador e sempre em busca de evolução, vamos conversar!
 
+- portfolio - (https://innovacodetech.com.br)
+
+Fique à vontade para conectar-se e explorar possíveis sinergias! Estou animado para fazer parte de redes colaborativas e aprender com profissionais inspiradores.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovittorsd)](https://github.com/anuraghazra/github-readme-stats)
