@@ -1,33 +1,67 @@
-## Olá! Eu sou o Joao Vittor 🖐️
+[![trophy](https://github-profile-trophy.vercel.app/?username=Joaovittorsd&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vittor.jt)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovittor)
+### About Me:    
+My name is João Vitor and I'm a .NET developer with over 3 years of experience taking projects to the next level!
 
-![Vittor GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaovittorsd&show_icons=true&theme=dracula)
+During this initial phase of my professional career, I have been developing several internal projects in .NET, creating sector-specific modules to optimize operations. Built-in advanced features such as scheduled WhatsApp notifications and preventative maintenance alerts, reducing operational costs and increasing maintenance efficiency.
 
-## Tecnologias que eu uso no meu dia
+Additionally, I specialize in creating dashboards and reports using Power BI, providing strategic insights that drive informed decision-making.
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img align="center" alt="SQL Serve" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-  <img align="right" alt="Joao-Vittor" src="https://i.pinimg.com/originals/00/32/39/0032396db4f41601a6c992f0863bc45b.gif" margin-top="100" />
-</div><br/>
+I currently have a degree in Systems Analysis and Development, always seeking to improve my knowledge and stay up to date with the latest trends in the technological world.
+     
+## Languages and Tools 
+<div>
 
-Meu nome é João Vitor, e sou um Desenvolvedor .NET Pleno com mais de 2 anos de experiência impulsionando projetos para o próximo nível!
+### Languages:
+| C# | Java | PHP | JS |
+|----------|----------|----------|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp"  alt="CSharp" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="55" height="55"/>|
 
-Durante esse inicio de carreira profissional, venho desenvolvendo vários projetos internos em .NET, desenvolvendo módulos segmentados por setores para otimizar operações. Integrei recursos avançados, como notificações programadas no WhatsApp e alertas de manutenção preventiva, reduzindo custos operacionais e aprimorando a eficiência da manutenção.
+  
 
-Além disso, sou especialista na criação de Dashboards e relatórios utilizando Power BI, proporcionando insights estratégicos que impulsionam a tomada de decisões informadas.
+### Best frameworks and main libraries for C#, Java and PHP:
 
-Atualmente, estou me formando em Análise e Desenvolvimento de Sistemas, buscando sempre aprimorar meus conhecimentos e me manter atualizado com as últimas tendências do mundo da tecnologia.
+| .NET / ASP.NET Core | Blazor | AutoMapper | Spring | Laravel | Composer |
+|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="NET"  alt="NET" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Blazor"  alt="Blazor" width="55" height="55"/>|  <img src="https://docs.automapper.org/en/stable/_static/logo.png" title="AutoMapper" alt="AutoMapper" width="150" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="55" height="55"/>|
 
-Estou em busca de novas oportunidades para aplicar minha paixão pelo desenvolvimento de software e agregar valor a projetos desafiadores. Se você procura um profissional comprometido, inovador e sempre em busca de evolução, vamos conversar!
 
-- portfolio - (https://innovacodetech.com.br)
 
-Fique à vontade para conectar-se e explorar possíveis sinergias! Estou animado para fazer parte de redes colaborativas e aprender com profissionais inspiradores.
+### My Database Skills:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovittorsd)](https://github.com/anuraghazra/github-readme-stats)
+| SqlServe | MySQL | SQLite |
+|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="SqlServe" alt="SqlServe" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
+
+
+  
+### Environments, Testing, Other:
+
+| Git | Swagger | Postman |
+|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|
+
+---
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Joaovittorsd&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
+
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Joaovittorsd&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovittorsd&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Joaovittorsd&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+
