@@ -1,8 +1,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+João+Vitor!;" />
 </h1>
+<br/>
 
-   [![trophy](https://github-profile-trophy.vercel.app/?username=Joaovittorsd&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="right">
+    <img src="https://github-profile-trophy.vercel.app/?username=Joaovittorsd&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" />
+</div>
 
 
 <br/>
@@ -44,9 +47,9 @@ I currently have a degree in Systems Analysis and Development, always seeking to
 
 ### Best frameworks and main libraries for C#, Java and PHP:
 
-| .NET / ASP.NET Core | Blazor | AutoMapper | Spring | Laravel | Composer |
-|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="NET"  alt="NET" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Blazor"  alt="Blazor" width="55" height="55"/>|  <img src="https://docs.automapper.org/en/stable/_static/logo.png" title="AutoMapper" alt="AutoMapper" width="150" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="55" height="55"/>|
+| .NET / ASP.NET Core | Blazor | Spring | Laravel | Composer |
+|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="NET"  alt="NET" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Blazor"  alt="Blazor" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="55" height="55"/>|
 
 
 
