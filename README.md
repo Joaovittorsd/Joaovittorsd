@@ -68,11 +68,6 @@ I currently have a degree in Systems Analysis and Development, always seeking to
 |<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|
 
 <h2 align="center">⚡ Stats ⚡</h2>
----
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Joaovittorsd&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-
 
 ---
 
