@@ -1,98 +1,79 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+João+Vitor!;" />
-</h1>
-<br/>
 
-<div align="right">
-    <img src="https://github-profile-trophy.vercel.app/?username=Joaovittorsd&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" />
+<!-- Parte superior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=13,16,20,25"/>
+
+---
+<div align="center">
+  
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou João Vitor
+ 👨🏻‍💻 Sou um desenvolvedor fullstack, criativo e apaixonado por tecnologia.<br>
+🎓 Formado pela Estácio SA.<br>
+🚀 Focado em criar aplicações performáticas e com boas práticas de arquitetura.<br>
+💡 Sempre buscando evoluir, aprender novas tecnologias e transformar ideias em soluções reais.<br>
+🧠 Gosto de trabalhar com APIs, resolver bugs difíceis e criar experiências de usuário fluidas.
 </div>
-
-
-<br/>
 
 <div align="center">
- 
-### About Me:    
-My name is João Vitor and I'm a .NET developer with over 3 years of experience taking projects to the next level!
-
-During this initial phase of my professional career, I have been developing several internal projects in .NET, creating sector-specific modules to optimize operations. Built-in advanced features such as scheduled WhatsApp notifications and preventative maintenance alerts, reducing operational costs and increasing maintenance efficiency.
-
-Additionally, I specialize in creating dashboards and reports using Power BI, providing strategic insights that drive informed decision-making.
-
-I currently have a degree in Systems Analysis and Development, always seeking to improve my knowledge and stay up to date with the latest trends in the technological world.
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:vittor.sdbr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/joaovittor" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://innovacodetech.com.br" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  <a href="https://github.com/Joaovittorsd">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaovittorsd&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovittorsd&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
- <hr/>
+
+   <!-- Distintivos de Linguagens e Habilidades -->
+<div style="display: inline_block" align="center"><br>
+    <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />&nbsp;
+    <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />&nbsp;
+    <img src="https://img.shields.io/badge/-Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework" />&nbsp;
+    <img src="https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />&nbsp;
+    <img src="https://img.shields.io/badge/MudBlazor-272c35?style=for-the-badge&logo=blazor&logoColor=white" alt="MudBlazor">&nbsp;
+    <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />&nbsp;
+    <img src="https://img.shields.io/badge/AutoMapper-%23D61A3C?style=for-the-badge&logo=autoprefixer&logoColor=white" alt="AutoMapper">&nbsp;
+    <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />&nbsp;
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
+    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />&nbsp;
+    <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />&nbsp;
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />&nbsp;
+    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />&nbsp;
+    <img src="https://img.shields.io/badge/REST%20API-%23007ACC?style=for-the-badge&logo=swagger&logoColor=white" alt="REST API">&nbsp;
+    <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />&nbsp;
+    <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />&nbsp;
+    <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />&nbsp;
+    <img src="https://img.shields.io/badge/CI%2FCD-%23007ACC?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD">&nbsp;
+    <img src="https://img.shields.io/badge/xUnit-%232C3E50?style=for-the-badge&logo=.net&logoColor=white" alt="xUnit Testing">&nbsp;
+    <img src="https://img.shields.io/badge/LINQ-%23239120?style=for-the-badge&logo=csharp&logoColor=white" alt="LINQ">&nbsp;
+</div>
+ <br>
+
+<!-- Contador de Visitantes -->
+<div align="center">
+  <br><p align="center"><b>Quantidade de visitantes</b></p>  
+   <img src="https://komarev.com/ghpvc/?username=Joaovittorsd&style=for-the-badge&color=green" alt=""/>
+  <br>
+</div>
+
+<div id="header" align="center">
  
+</div>
 
-### Languages:
-| C# | Java | PHP | JS |
-|----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp"  alt="CSharp" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="55" height="55"/>|
+<div align="center"> 
+    <a href="https://www.instagram.com/vittor_fight" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:vittor.prweb@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/joaovittor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-  
-
-### Best frameworks and main libraries for C#, Java and PHP:
-
-| .NET / ASP.NET Core | Blazor | Spring | Laravel | Composer |
-|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="NET"  alt="NET" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Blazor"  alt="Blazor" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="55" height="55"/>|
-
-
-
-### My Database Skills:
-
-| SqlServe | MySQL | SQLite |
-|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="SqlServe" alt="SqlServe" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
-
-
-  
-### Environments, Testing, Other:
-
-| Git | Swagger | Postman |
-|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<picture align="center" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaovittorsd/Joaovittorsd/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joaovittorsd/Joaovittorsd/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation"  src="https://raw.githubusercontent.com/Joaovittorsd/Joaovittorsd/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Joaovittorsd&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovittorsd&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-</p>
- 
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Joaovittorsd/Joaovittorsd/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
+<!-- Parte inferior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=13,16,20,25"/>
 
 
-<br/>
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Joaovittorsd&style=for-the-badge&color=green" alt=""/>
-</div>
