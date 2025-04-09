@@ -10,7 +10,7 @@
 🎓 Formado pela Estácio SA.<br>
 🚀 Focado em criar aplicações performáticas e com boas práticas de arquitetura.<br>
 💡 Sempre buscando evoluir, aprender novas tecnologias e transformar ideias em soluções reais.<br>
-🧠 Gosto de trabalhar com APIs, resolver bugs difíceis e criar experiências de usuário fluidas.
+🧠 Minha paixão por programação é o que me motiva todos os dias a buscar novos desafios e aprimorar minhas habilidades.
 </div>
 
 <div align="center">
