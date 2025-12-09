@@ -15,10 +15,10 @@
 
 <div align="center">
   <a href="https://github.com/Joaovittorsd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaovittorsd&theme=buefy&hide_border=false&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovittorsd&theme=buefy&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats-b6xi.vercel.app/api?username=Joaovittorsd&theme=buefy&hide_border=false&show_icons=true&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats-b6xi.vercel.app/api/top-langs/?username=Joaovittorsd&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  </a>
 </div>
-
 
    <!-- Distintivos de Linguagens e Habilidades -->
 <div style="display: inline_block" align="center"><br>
